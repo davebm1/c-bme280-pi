@@ -1,0 +1,3 @@
+*.o
+bme280
+.vscode/
