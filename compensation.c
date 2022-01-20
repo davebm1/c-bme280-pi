@@ -2,7 +2,7 @@
 
 #include <i2c/smbus.h>
 
-static volatile int32_t t_fine = 0;
+static int32_t t_fine = 0;
 
 static uint16_t dig_T1 = 0;
 static int16_t dig_T2 = 0;
